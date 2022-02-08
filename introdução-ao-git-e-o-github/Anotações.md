@@ -1,4 +1,4 @@
-Link Download para o Git:https://git-scm.com/download/win
+Link Download para o Git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para auxilia o uso do Git que muito simples de usar 
 ##Comandos Iniciais##
 git init - para inicializar o git
